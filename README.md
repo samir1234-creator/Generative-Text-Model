@@ -29,3 +29,7 @@ The script is designed to be highly versatile, fully supporting execution in thr
 Generative text models like the one implemented in this project have far-reaching implications across numerous industries. In healthcare, they can be used to summarize complex medical records or draft patient communications. In education, they serve as personalized tutors, generating customized explanations for difficult concepts on demand. In the realm of software development and content creation, these models act as co-pilots, assisting humans in drafting documentation, brainstorming ideas, and overcoming writer's block.
 
 By successfully deploying this text generation pipeline, we demonstrate the democratization of Artificial Intelligence. It showcases that high-quality text generation is no longer restricted to massive server farms running models with hundreds of billions of parameters. With intelligent model selection, precise prompt engineering, and efficient coding practices, powerful AI tools can be built and run locally, offering profound value to developers, researchers, and end-users alike. This project serves as a testament to the rapid advancements in the AI domain and stands as a practical, scalable foundation for future natural language processing endeavors.
+
+### Output
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/51fca95d-97cf-42cf-942b-62cf9dc7d831" />
